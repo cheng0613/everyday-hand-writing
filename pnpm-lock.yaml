@@ -1,0 +1,17 @@
+lockfileVersion: 5.4
+
+specifiers:
+  typescript: ^4.8.2
+
+devDependencies:
+  typescript: registry.npmjs.org/typescript/4.8.2
+
+packages:
+
+  registry.npmjs.org/typescript/4.8.2:
+    resolution: {integrity: sha512-C0I1UsrrDHo2fYI5oaCGbSejwX4ch+9Y5jTQELvovfmFkK3HHSZJB8MSJcWLmCUBzQBchCrZ9rMRV6GuNrvGtw==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/typescript/-/typescript-4.8.2.tgz}
+    name: typescript
+    version: 4.8.2
+    engines: {node: '>=4.2.0'}
+    hasBin: true
+    dev: true
